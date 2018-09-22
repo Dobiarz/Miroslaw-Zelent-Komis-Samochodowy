@@ -1,0 +1,51 @@
+body
+{
+	/*background-color: white;*/
+	margin: 0;
+}
+.baner
+{
+color: white;
+background-color: #45517D;
+height: 60px;
+font-size: 120%;
+text-align:right;
+}
+.panel_lewy
+{
+margin-top: -20px;
+background-color: #61B2EC;
+width: 40%;
+height: 500px;
+float: left;
+}
+.panel_prawy
+{
+margin-top: -20px;
+background-color: #8EC9F2;
+width: 60%;
+height: 500px;
+float: left;
+}
+table
+{
+width: 100%;
+text-align: center;
+}
+a:link
+{
+color: orange;
+}
+a:visited
+{
+color: green;
+}
+.stopka
+{
+color: white;
+background-color: #45517D;
+height: 60px;
+font-size: 150%;
+text-align:justify;
+clear: both;
+}
